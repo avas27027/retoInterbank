@@ -19,7 +19,10 @@ id,tipo,monto
 3,Crédito,200.00
 ```
 
-3. Posteriormente ejecutar el siguiente comando node index.js <<Ruta del archivo csv>>
+3. Posteriormente ejecutar el siguiente comando:
+``` bash
+node index.js <<Ruta_del _archivo.csv>>
+```
 
 ## Enfoque y solución
 * Se uso un enfoque modular, dividiendo las tareas en distintas funciones para tener un mejor manejo de los errores y que el codigo sea más legible.
