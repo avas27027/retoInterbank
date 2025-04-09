@@ -21,7 +21,7 @@ id,tipo,monto
 
 3. Posteriormente ejecutar el siguiente comando:
 ``` bash
-node index.js <<Ruta_del _archivo.csv>>
+node index.js "Ruta_del _archivo.csv"
 ```
 
 ## Enfoque y solución
