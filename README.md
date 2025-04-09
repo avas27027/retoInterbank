@@ -1,4 +1,4 @@
-# retoInterbank
+# Reto Técnico: Procesamiento de Transacciones Bancarias (CLI)
 ## Introducción
 Esta aplicación CLI en JavaScript (Node.js) procesa un archivo CSV de transacciones bancarias y genera un reporte con el balance final (créditos menos débitos), la transacción de mayor monto y el conteo de transacciones por tipo "Crédito" y "Débito". Para ello unicamente se debe ingresar la ruta del archivo CSV como parametro.
 
